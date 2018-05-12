@@ -1,4 +1,8 @@
 _repo: On-Sulphonfluorescein-and-some-of-its-Derivatives_50531
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50531-h/images/cover.jpg
 creator:
   author:
     agent_name: Hayes, C. W. (Charles Willard)
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '45960'
     url: http://www.gutenberg.org/2009/agents/45960
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50531#On-Sulphonfluorescein-and-some-of-its-Derivatives
 gutenberg_issued: '2015-11-22'
 gutenberg_type: Text
 identifiers:
